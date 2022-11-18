@@ -20,7 +20,7 @@ widgets:
   - code: sb2_nav_item_alerts
     config: null
     pos: 2
-  - code: sb2_nav_item_alerts
+  - code: sb2_nav_item_messages
     config: null
     pos: 3
   - code: sb2_login
@@ -40,7 +40,7 @@ widgets:
   - code: sb2_earnings_monthly_card
     config: null
     pos: 8
-  - code: sb2_earnings__monthly__card
+  - code: sb2_earnings_annual_card
     config: null
     pos: 9
   - code: sb2_area_chart
