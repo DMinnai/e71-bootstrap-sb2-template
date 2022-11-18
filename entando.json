@@ -3,7 +3,7 @@
     "microfrontends": [],
     "svc": [],
     "name": "e71-bootstrap-sb2-template",
-    "version": "0.0.3",
-    "description": "Sb2 bootstrap Entando template",
+    "version": "0.0.4",
+    "description": "Sb2 Bootstrap Entando template",
     "type": "bundle"
 }
