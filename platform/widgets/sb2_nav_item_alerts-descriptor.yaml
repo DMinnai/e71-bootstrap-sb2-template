@@ -2,7 +2,7 @@ code: sb2_nav_item_alerts
 titles:
   en: sb2 Nav Item - Alerts
   it: sb2 Nav Item - Alerts
-group: administrators
+group: free
 customUi: |-
   <#assign wp=JspTaglibs["/aps-core"]>
   <li class="nav-item dropdown no-arrow mx-1">

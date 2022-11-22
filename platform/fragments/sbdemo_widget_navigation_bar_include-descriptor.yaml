@@ -1,4 +1,4 @@
-code: entando_widget_navigation_bar_include
+code: sbdemo_widget_navigation_bar_include
 guiCode: |-
   <#assign wp=JspTaglibs["/aps-core"]>
   <#assign c=JspTaglibs["http://java.sun.com/jsp/jstl/core"]>
