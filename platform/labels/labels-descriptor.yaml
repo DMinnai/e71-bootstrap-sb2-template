@@ -38,3 +38,11 @@
   titles:
     en: Login
     it: Accedi
+- key: SBDEMO_COPYRIGHT
+  titles:
+    en: Copyright © Entando 2022
+    it: Copyright © Entando 2022
+- key: SBD2_REPORT
+  titles:
+    en: Call to action
+    it: Bottone CTA

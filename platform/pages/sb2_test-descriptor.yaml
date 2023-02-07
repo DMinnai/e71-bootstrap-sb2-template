@@ -1,5 +1,6 @@
-code: sb2_test
-parentCode: sb2_dashboard
+descriptorVersion: v5
+name: sb2_test
+parentName: sb2_dashboard
 titles:
   en: Test page
   it: Pagina test

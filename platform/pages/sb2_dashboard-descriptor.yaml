@@ -1,8 +1,9 @@
-code: sb2_dashboard
-parentCode: homepage
+descriptorVersion: v5
+name: sb2_dashboard
+parentName: global:homepage
 titles:
-  en: Home
-  it: Home
+  en: Dashboard Sb2
+  it: Dashboard Sb2
 pageModel: sbdemo_template
 ownerGroup: free
 joinGroups: []

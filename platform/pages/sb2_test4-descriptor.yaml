@@ -1,5 +1,6 @@
-code: sb2_test4
-parentCode: sb2_test2
+descriptorVersion: v5
+name: sb2_test4
+parentName: sb2_test2
 titles:
   en: Test page 4
   it: Pagina test 4

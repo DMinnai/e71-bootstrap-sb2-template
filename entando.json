@@ -3,7 +3,8 @@
     "microfrontends": [],
     "svc": [],
     "name": "e71-bootstrap-sb2-template",
-    "version": "0.0.1",
+    "version": "2.0.0",
     "description": "Sb2 Dashboard Entando template",
     "type": "bundle"
 }
+

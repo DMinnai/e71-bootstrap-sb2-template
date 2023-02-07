@@ -1,7 +1,7 @@
 code: sb2_widget_navigation_bar
 titles:
-  en: Sb2 static navigation menu
-  it: Sb2 statico navigation menu
+  en: Sb2 parametrized  navigation menu
+  it: Sb2 menu navigazione parametrizzato
 group: free
 customUi: |-
   <#assign wp=JspTaglibs["/aps-core"]>
